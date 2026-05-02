@@ -17,11 +17,11 @@ class AttachmentDownload
 
   sig { returns(T.nilable(String)) }
   def download!
-    temp_file = T.unsafe(URI.parse(URI::DEFAULT_PARSER.escape(url))).open
+    content = T.unsafe(URI.parse(URI::DEFAULT_PARSER.escape(url))).read
+    return if content.nil?
 
-    return if temp_file.nil?
+    File.binwrite(write_path, content)
 
-    FileUtils.mv(temp_file.path, write_path)
     write_path
   end
 
