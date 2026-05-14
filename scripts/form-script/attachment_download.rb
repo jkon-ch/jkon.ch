@@ -23,6 +23,8 @@ class AttachmentDownload
     File.binwrite(write_path, content)
 
     write_path
+  rescue OpenURI::HTTPError => e
+    puts "#{e.message}: #{url}"
   end
 
   private
