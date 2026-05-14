@@ -37,5 +37,5 @@ exclude:
   - images/old/
   - images/artists/original/
 
-call_for_artists: true
+call_for_artists: false
 artists_selected: false
