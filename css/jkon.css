@@ -191,6 +191,7 @@ a.sponsor {
 
 .logo-banner {
   margin-top: 40px;
+  width: auto;
 }
 
 @media only screen and (max-width: 600px) {
