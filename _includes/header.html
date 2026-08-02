@@ -1,7 +1,9 @@
+{% assign index_page = site.pages | where: "ref", "index" | where: "lang", page.lang | first %}
+
 <header class="site-header">
   <nav class="site-nav">
-    <a href="{{ site.baseurl }}">
-      <img id="logo" src="/images/jkon-logo-plain.svg">
+    <a href="{{ index_page.url }}">
+      <img id="logo" src="/images/jkon-logo-plain.svg" alt="The JKON logo">
     </a>
 
     {% include navigation.html %}
