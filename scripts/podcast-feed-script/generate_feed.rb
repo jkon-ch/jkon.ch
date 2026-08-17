@@ -23,7 +23,7 @@ class Episode # rubocop:disable Style/Documentation
   end
 
   def link
-    "https://jkon.ch/#{GUIDE_DIR}/#{file_name}"
+    "https://jkon.ch/#{GUIDE_DIR}/#{file_stem}"
   end
 
   def size
@@ -32,6 +32,10 @@ class Episode # rubocop:disable Style/Documentation
 
   def file_name
     File.basename(path)
+  end
+
+  def file_stem
+    File.basename(path, '.*')
   end
 
   def uuid
