@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JKON - Audioguide</title>
+    <link>https://jkon.ch</link>
+    <language>de-ch</language>
+    <copyright>&#169; JKON</copyright>
+    <itunes:author>JKON - Junge Kunst Olten</itunes:author>
+    <description>Audioguide für die Ausstellungen der Jungen Kunst Olten (JKON)</description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jkon.ch/images/jkon-logo-plain.svg" />
+    <itunes:category text="Arts" />
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>JKON 2026 - 0 - Intro</itunes:title>
+      <description>JKON 2026 - 0 - Intro</description>
+      <enclosure length="1663768" type="audio/mpeg"
+        url="https://jkon.ch/audioguide/audio/0-intro.mp3" />
+      <guid>be1be947-5fc9-4bee-9525-fdf638c3f98d</guid>
+      <pubDate>Mon, 17 Aug 2026 17:33:38 +0200</pubDate>
+      <itunes:duration>118</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
