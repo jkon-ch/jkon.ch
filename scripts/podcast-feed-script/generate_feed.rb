@@ -4,7 +4,9 @@ require 'erb'
 require 'wahwah'
 require 'time'
 
-AUDIO_DIR = 'audioguide/2026/audio'.freeze
+YEAR = 2026
+GUIDE_DIR = "audioguide/#{YEAR}".freeze
+AUDIO_DIR = "#{GUIDE_DIR}/audio".freeze
 DATA = YAML.load_file('data.yaml')
 NAMESPACE_UUID = DATA['namespace_uuid']
 PUBLISH_START_TIME = Time.parse(DATA['publish_start_time'])
@@ -16,6 +18,10 @@ class Episode # rubocop:disable Style/Documentation
 
   def url
     "https://jkon.ch/#{AUDIO_DIR}/#{file_name}"
+  end
+
+  def link
+    "https://jkon.ch/#{GUIDE_DIR}/#{file_name}"
   end
 
   def size
@@ -52,6 +58,11 @@ class Episode # rubocop:disable Style/Documentation
 
   def publish_time
     PUBLISH_START_TIME + number.minutes
+  end
+
+  # TODO: fix this next year
+  def season
+    YEAR
   end
 
   attr_reader :path

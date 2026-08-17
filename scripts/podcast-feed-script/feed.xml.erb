@@ -12,8 +12,13 @@
     <itunes:image href="https://jkon.ch/images/jkon-logo-plain.png" />
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate><%= Time.now.rfc2822 %></lastBuildDate>
+    <generator>generate_feed.rb</generator>
+
     <% episodes.each do |episode| %>
       <item>
+        <title><%= CGI.escapeHTML(episode.title) %></title>
+        <link><%= episode.link %></link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title><%= CGI.escapeHTML(episode.title) %></itunes:title>
         <description><%= CGI.escapeHTML(episode.description) %></description>
@@ -23,6 +28,8 @@
         <pubDate><%= episode.publish_time.rfc2822 %></pubDate>
         <itunes:duration><%= episode.duration %></itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode><%= episode.number %></itunes:episode>
+        <itunes:season><%= episode.season %></itunes:season>
       </item>
     <% end %>
   </channel>

@@ -12,8 +12,13 @@
     <itunes:image href="https://jkon.ch/images/jkon-logo-plain.png" />
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Mon, 17 Aug 2026 23:05:20 +0200</lastBuildDate>
+    <generator>generate_feed.rb</generator>
+
     
       <item>
+        <title>0 Intro</title>
+        <link>https://jkon.ch/audioguide/2026/0-intro.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>0 Intro</itunes:title>
         <description>0 Intro</description>
@@ -23,9 +28,13 @@
         <pubDate>Mon, 17 Aug 2026 20:00:00 +0200</pubDate>
         <itunes:duration>118</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>0</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>1 Lily Pellaud</title>
+        <link>https://jkon.ch/audioguide/2026/1-lily-pellaud.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>1 Lily Pellaud</itunes:title>
         <description>1 Lily Pellaud</description>
@@ -35,9 +44,13 @@
         <pubDate>Mon, 17 Aug 2026 20:01:00 +0200</pubDate>
         <itunes:duration>97</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>1</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>2 Svenja Gansner</title>
+        <link>https://jkon.ch/audioguide/2026/2-svenja-gansner.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>2 Svenja Gansner</itunes:title>
         <description>2 Svenja Gansner</description>
@@ -47,9 +60,13 @@
         <pubDate>Mon, 17 Aug 2026 20:02:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>2</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>3 Paula Beck</title>
+        <link>https://jkon.ch/audioguide/2026/3-paula-beck.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>3 Paula Beck</itunes:title>
         <description>3 Paula Beck</description>
@@ -59,9 +76,13 @@
         <pubDate>Mon, 17 Aug 2026 20:03:00 +0200</pubDate>
         <itunes:duration>129</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>3</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>4 Tatsuki Peter Browne</title>
+        <link>https://jkon.ch/audioguide/2026/4-tatsuki-peter-browne.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>4 Tatsuki Peter Browne</itunes:title>
         <description>4 Tatsuki Peter Browne</description>
@@ -71,9 +92,13 @@
         <pubDate>Mon, 17 Aug 2026 20:04:00 +0200</pubDate>
         <itunes:duration>91</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>4</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>5 Tim Rod</title>
+        <link>https://jkon.ch/audioguide/2026/5-tim-rod.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>5 Tim Rod</itunes:title>
         <description>5 Tim Rod</description>
@@ -83,9 +108,13 @@
         <pubDate>Mon, 17 Aug 2026 20:05:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>5</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>6 Yulia Parfenova</title>
+        <link>https://jkon.ch/audioguide/2026/6-yulia-parfenova.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>6 Yulia Parfenova</itunes:title>
         <description>6 Yulia Parfenova</description>
@@ -95,9 +124,13 @@
         <pubDate>Mon, 17 Aug 2026 20:06:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>6</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>7 Sophie Schüpbach</title>
+        <link>https://jkon.ch/audioguide/2026/7-sophie-schuepbach.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>7 Sophie Schüpbach</itunes:title>
         <description>7 Sophie Schüpbach</description>
@@ -107,9 +140,13 @@
         <pubDate>Mon, 17 Aug 2026 20:07:00 +0200</pubDate>
         <itunes:duration>89</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>7</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>8 Lisa Mark</title>
+        <link>https://jkon.ch/audioguide/2026/8-lisa-mark.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>8 Lisa Mark</itunes:title>
         <description>8 Lisa Mark</description>
@@ -119,9 +156,13 @@
         <pubDate>Mon, 17 Aug 2026 20:08:00 +0200</pubDate>
         <itunes:duration>71</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>8</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>9 Lyna Beggah &amp; Alessandro Ferrari</title>
+        <link>https://jkon.ch/audioguide/2026/9-lyna-beggah-alessandro-ferrari.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>9 Lyna Beggah &amp; Alessandro Ferrari</itunes:title>
         <description>9 Lyna Beggah &amp; Alessandro Ferrari</description>
@@ -131,9 +172,13 @@
         <pubDate>Mon, 17 Aug 2026 20:09:00 +0200</pubDate>
         <itunes:duration>98</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>9</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>10 Janik Bürgin</title>
+        <link>https://jkon.ch/audioguide/2026/10-janik-buergin.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>10 Janik Bürgin</itunes:title>
         <description>10 Janik Bürgin</description>
@@ -143,9 +188,13 @@
         <pubDate>Mon, 17 Aug 2026 20:10:00 +0200</pubDate>
         <itunes:duration>68</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>10</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>11 Stéphane Nabil Petitmermet</title>
+        <link>https://jkon.ch/audioguide/2026/11-stephane-nabil-petitmermet.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>11 Stéphane Nabil Petitmermet</itunes:title>
         <description>11 Stéphane Nabil Petitmermet</description>
@@ -155,9 +204,13 @@
         <pubDate>Mon, 17 Aug 2026 20:11:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>11</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>12 Elio Mueller</title>
+        <link>https://jkon.ch/audioguide/2026/12-elio-mueller.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>12 Elio Mueller</itunes:title>
         <description>12 Elio Mueller</description>
@@ -167,9 +220,13 @@
         <pubDate>Mon, 17 Aug 2026 20:12:00 +0200</pubDate>
         <itunes:duration>104</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>12</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>13 Damien Risse</title>
+        <link>https://jkon.ch/audioguide/2026/13-damien-risse.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>13 Damien Risse</itunes:title>
         <description>13 Damien Risse</description>
@@ -179,9 +236,13 @@
         <pubDate>Mon, 17 Aug 2026 20:13:00 +0200</pubDate>
         <itunes:duration>79</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>13</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>14 Sophia von Ballmoos</title>
+        <link>https://jkon.ch/audioguide/2026/14-sophia-von-ballmoos.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>14 Sophia von Ballmoos</itunes:title>
         <description>14 Sophia von Ballmoos</description>
@@ -191,9 +252,13 @@
         <pubDate>Mon, 17 Aug 2026 20:14:00 +0200</pubDate>
         <itunes:duration>90</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>14</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>15 Nicolle Bussien</title>
+        <link>https://jkon.ch/audioguide/2026/15-nicolle-bussien.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>15 Nicolle Bussien</itunes:title>
         <description>15 Nicolle Bussien</description>
@@ -203,9 +268,13 @@
         <pubDate>Mon, 17 Aug 2026 20:15:00 +0200</pubDate>
         <itunes:duration>94</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>15</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>16 Zeno Germinale</title>
+        <link>https://jkon.ch/audioguide/2026/16-zeno-germinale.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>16 Zeno Germinale</itunes:title>
         <description>16 Zeno Germinale</description>
@@ -215,9 +284,13 @@
         <pubDate>Mon, 17 Aug 2026 20:16:00 +0200</pubDate>
         <itunes:duration>111</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>16</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
       <item>
+        <title>17 Outro</title>
+        <link>https://jkon.ch/audioguide/2026/17-outro.mp3</link>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:title>17 Outro</itunes:title>
         <description>17 Outro</description>
@@ -227,6 +300,8 @@
         <pubDate>Mon, 17 Aug 2026 20:17:00 +0200</pubDate>
         <itunes:duration>108</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
+        <itunes:episode>17</itunes:episode>
+        <itunes:season>2026</itunes:season>
       </item>
     
   </channel>
