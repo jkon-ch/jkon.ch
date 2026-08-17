@@ -15,8 +15,8 @@
     <% episodes.each do |episode| %>
       <item>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:title><%= episode.title %></itunes:title>
-        <description><%= episode.description %></description>
+        <itunes:title><%= CGI.escapeHTML(episode.title) %></itunes:title>
+        <description><%= CGI.escapeHTML(episode.description) %></description>
         <enclosure length="<%= episode.size %>" type="audio/mpeg"
           url="<%= episode.url %>" />
         <guid><%= episode.uuid %></guid>
