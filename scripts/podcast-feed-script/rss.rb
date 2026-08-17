@@ -2,9 +2,12 @@ require 'active_support/all'
 require 'yaml'
 require 'erb'
 require 'wahwah'
+require 'time'
 
 AUDIO_DIR = 'audioguide/2026/audio'.freeze
 DATA = YAML.load_file('data.yaml')
+NAMESPACE_UUID = DATA['namespace_uuid']
+PUBLISH_START_TIME = Time.parse(DATA['publish_start_time'])
 
 class Episode # rubocop:disable Style/Documentation
   def initialize(path)
@@ -24,7 +27,7 @@ class Episode # rubocop:disable Style/Documentation
   end
 
   def uuid
-    Digest::UUID.uuid_v5(DATA['namespace_uuid'], file_name)
+    Digest::UUID.uuid_v5(NAMESPACE_UUID, file_name)
   end
 
   def title
@@ -45,6 +48,10 @@ class Episode # rubocop:disable Style/Documentation
 
   def number
     file_name.split('-').first.to_i
+  end
+
+  def publish_time
+    PUBLISH_START_TIME + number.minutes
   end
 
   attr_reader :path
