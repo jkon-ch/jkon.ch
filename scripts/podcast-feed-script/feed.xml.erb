@@ -14,6 +14,10 @@
     <itunes:explicit>false</itunes:explicit>
     <lastBuildDate><%= Time.now.rfc2822 %></lastBuildDate>
     <generator>generate_feed.rb</generator>
+    <itunes:owner>
+        <itunes:name>JKON - Junge Kunst Olten</itunes:name>
+        <itunes:email>info@jkon.ch</itunes:email>
+    </itunes:owner>
 
     <% episodes.each do |episode| %>
       <item>

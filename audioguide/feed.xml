@@ -12,8 +12,12 @@
     <itunes:image href="https://jkon.ch/images/jkon-logo-plain.png" />
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 18 Aug 2026 07:20:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:06:38 +0200</lastBuildDate>
     <generator>generate_feed.rb</generator>
+    <itunes:owner>
+        <itunes:name>JKON - Junge Kunst Olten</itunes:name>
+        <itunes:email>info@jkon.ch</itunes:email>
+    </itunes:owner>
 
     
       <item>
