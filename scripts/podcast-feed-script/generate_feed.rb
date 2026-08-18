@@ -59,7 +59,7 @@ class Episode # rubocop:disable Style/Documentation
   end
 
   def number
-    file_name.split('-').first.to_i
+    file_name.split('-').first.to_i + 1
   end
 
   def publish_time

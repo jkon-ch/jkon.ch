@@ -12,7 +12,7 @@
     <itunes:image href="https://jkon.ch/images/jkon-logo-plain.png" />
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 18 Aug 2026 00:09:56 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:20:41 +0200</lastBuildDate>
     <generator>generate_feed.rb</generator>
 
     
@@ -25,10 +25,10 @@
         <enclosure length="1664375" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/0-intro.mp3" />
         <guid>c39e6cab-433d-5aaa-9e61-cfa6777d76e7</guid>
-        <pubDate>Mon, 17 Aug 2026 20:00:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:01:00 +0200</pubDate>
         <itunes:duration>118</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>0</itunes:episode>
+        <itunes:episode>1</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -41,10 +41,10 @@
         <enclosure length="1369994" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/1-lily-pellaud.mp3" />
         <guid>efde12b1-d7a5-5419-a938-18d8b72e4333</guid>
-        <pubDate>Mon, 17 Aug 2026 20:01:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:02:00 +0200</pubDate>
         <itunes:duration>97</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>1</itunes:episode>
+        <itunes:episode>2</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -57,10 +57,10 @@
         <enclosure length="1233950" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/2-svenja-gansner.mp3" />
         <guid>ef9c0366-8509-546b-bbc1-db3eb0d3309b</guid>
-        <pubDate>Mon, 17 Aug 2026 20:02:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:03:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>2</itunes:episode>
+        <itunes:episode>3</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -73,10 +73,10 @@
         <enclosure length="1811043" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/3-paula-beck.mp3" />
         <guid>4fe9389e-34f1-519f-ab42-84accc9ad74a</guid>
-        <pubDate>Mon, 17 Aug 2026 20:03:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:04:00 +0200</pubDate>
         <itunes:duration>129</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>3</itunes:episode>
+        <itunes:episode>4</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -89,10 +89,10 @@
         <enclosure length="1288813" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/4-tatsuki-peter-browne.mp3" />
         <guid>feee12b2-3b7a-5caf-911d-21f44506db5b</guid>
-        <pubDate>Mon, 17 Aug 2026 20:04:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:05:00 +0200</pubDate>
         <itunes:duration>91</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>4</itunes:episode>
+        <itunes:episode>5</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -105,10 +105,10 @@
         <enclosure length="1240526" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/5-tim-rod.mp3" />
         <guid>3e720f7c-333c-55c9-b062-b0aa51f6d15f</guid>
-        <pubDate>Mon, 17 Aug 2026 20:05:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:06:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>5</itunes:episode>
+        <itunes:episode>6</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -121,10 +121,10 @@
         <enclosure length="1238339" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/6-yulia-parfenova.mp3" />
         <guid>b35ef7a4-a184-5375-a22f-83e3a6892c8b</guid>
-        <pubDate>Mon, 17 Aug 2026 20:06:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:07:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>6</itunes:episode>
+        <itunes:episode>7</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -137,10 +137,10 @@
         <enclosure length="1256646" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/7-sophie-schuepbach.mp3" />
         <guid>370c62db-a621-58b4-80d4-ddf08ff16848</guid>
-        <pubDate>Mon, 17 Aug 2026 20:07:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:08:00 +0200</pubDate>
         <itunes:duration>89</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>7</itunes:episode>
+        <itunes:episode>8</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -153,10 +153,10 @@
         <enclosure length="999888" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/8-lisa-mark.mp3" />
         <guid>dfd6914e-b240-50e9-8f56-dccb9a2fbf21</guid>
-        <pubDate>Mon, 17 Aug 2026 20:08:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:09:00 +0200</pubDate>
         <itunes:duration>71</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>8</itunes:episode>
+        <itunes:episode>9</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -169,10 +169,10 @@
         <enclosure length="1376962" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/9-lyna-beggah-alessandro-ferrari.mp3" />
         <guid>91190545-5619-5a1c-8869-ffdd9082633d</guid>
-        <pubDate>Mon, 17 Aug 2026 20:09:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:10:00 +0200</pubDate>
         <itunes:duration>98</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>9</itunes:episode>
+        <itunes:episode>10</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -185,10 +185,10 @@
         <enclosure length="959681" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/10-janik-buergin.mp3" />
         <guid>1e74ea3c-db79-5bee-acf3-30d4294d6d4e</guid>
-        <pubDate>Mon, 17 Aug 2026 20:10:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:11:00 +0200</pubDate>
         <itunes:duration>68</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>10</itunes:episode>
+        <itunes:episode>11</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -201,10 +201,10 @@
         <enclosure length="1239846" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/11-stephane-nabil-petitmermet.mp3" />
         <guid>b692cdda-55ac-525f-9cbb-991dab6a36d2</guid>
-        <pubDate>Mon, 17 Aug 2026 20:11:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:12:00 +0200</pubDate>
         <itunes:duration>88</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>11</itunes:episode>
+        <itunes:episode>12</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -217,10 +217,10 @@
         <enclosure length="1464716" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/12-elio-mueller.mp3" />
         <guid>4d6cf429-345e-54c7-8e1f-7e248181784c</guid>
-        <pubDate>Mon, 17 Aug 2026 20:12:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:13:00 +0200</pubDate>
         <itunes:duration>104</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>12</itunes:episode>
+        <itunes:episode>13</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -233,10 +233,10 @@
         <enclosure length="1114361" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/13-damien-risse.mp3" />
         <guid>212b7f8d-5586-5e9f-855d-bc23ed7a997d</guid>
-        <pubDate>Mon, 17 Aug 2026 20:13:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:14:00 +0200</pubDate>
         <itunes:duration>79</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>13</itunes:episode>
+        <itunes:episode>14</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -249,10 +249,10 @@
         <enclosure length="1274917" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/14-sophia-von-ballmoos.mp3" />
         <guid>03179c39-d184-5e86-83d6-12809af4004d</guid>
-        <pubDate>Mon, 17 Aug 2026 20:14:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:15:00 +0200</pubDate>
         <itunes:duration>90</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>14</itunes:episode>
+        <itunes:episode>15</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -265,10 +265,10 @@
         <enclosure length="1320993" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/15-nicolle-bussien.mp3" />
         <guid>731f735b-cb2d-50c0-876d-54195b77ace6</guid>
-        <pubDate>Mon, 17 Aug 2026 20:15:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:16:00 +0200</pubDate>
         <itunes:duration>94</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>15</itunes:episode>
+        <itunes:episode>16</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -281,10 +281,10 @@
         <enclosure length="1482638" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/16-zeno-germinale.mp3" />
         <guid>34c0066e-b49c-5dc3-982b-ad5bf092bcd0</guid>
-        <pubDate>Mon, 17 Aug 2026 20:16:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:17:00 +0200</pubDate>
         <itunes:duration>105</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>16</itunes:episode>
+        <itunes:episode>17</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
@@ -297,10 +297,10 @@
         <enclosure length="4669080" type="audio/mpeg"
           url="https://jkon.ch/audioguide/2026/audio/17-outro.mp3" />
         <guid>c7b03447-34d8-50f5-92e5-d2bd2b1e2e59</guid>
-        <pubDate>Mon, 17 Aug 2026 20:17:00 +0200</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:18:00 +0200</pubDate>
         <itunes:duration>333</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:episode>17</itunes:episode>
+        <itunes:episode>18</itunes:episode>
         <itunes:season>2026</itunes:season>
       </item>
     
